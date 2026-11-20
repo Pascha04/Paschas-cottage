@@ -89,9 +89,11 @@ De checkout vragen voor maandag 16-11-26:
    Mijn eerste idee gaat over het universum en dat je op de planeten kan klikken en dat je dan informatie krijgt met een thema
    Mijn tweede idee gaat over films en dat je dan een film kan uitkiezen en dat dan de hele pagina die sfeer van die film wordt. Hierbij schrijf ik dan ook mijn mening over de film en de lessen die ik eruit haal.
 
-**Miro presentatie bord**
+**Presentatie en vragenlijst:**
+Ik had een presentatie gemaakt over mijn concept (het filmarchief) zodat ik dit kon presenteren aan een medestudenten zodat ik kan oefenen om over mijn concept te vertellen. (zie mapje oefeningen)
+Hiervoor heb ik mijn concept onderverdeelt in alle onderdelen die ik wilde benoemen:
 
-**Vragenlijst:**
+- ![presentatie collage](readme-images/week2/collage-van-afbeeldingen-film-idee-website.jpg)
 
 - **Eigen verbinding:**
   - Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
@@ -104,3 +106,6 @@ De checkout vragen voor maandag 16-11-26:
     **Een stip op de horizon**
   - Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).
   - Vul deze zin aan:Ik wil mijn Digital Garden laten gaan over een film archief met de film ambience en wil dat laten zien door bijpassende kleuren, fonts, afbeeldingen en andere grafische elementen aan content te tonen. Ik begin met een stukje eigen content over films en mijn eigen favorieten. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door de persoonlijke ambience pagina’s te maken met belangrijke punten die je uit de film kunt halen.
+
+**Miro presentatie visual research bord**
+Ik heb visual research gedaan naar mijn gekozen concept. Ik
