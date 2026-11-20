@@ -125,4 +125,4 @@ artistiek → films zijn heel expressief met hun kunsten
 Uiteindelijk kies ik voor dromerig omdat het het beste uitlegt wat voor sfeer films geven: het zijn zoveel gekke verhalen net zoals degene die je in je dromen krijgt. Daarnaast zijn films ook magisch zoals dromen.
 
 **Miro presentatie visual research bord**
-Ik heb visual research gedaan naar mijn gekozen concept. Ik
+Ik heb visual research gedaan naar mijn gekozen concept. Ik heb gekeken naar hoe ik het woord 'dromerig' kan vertalen naar beeld. Ik kreeg er een zweverig, gradient gevoel bij dus zocht daarnaar. Qua typografie wilde ik ook iets gradient/vervagends.
