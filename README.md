@@ -71,14 +71,25 @@ Wat heb ik geleerd en kan ik meenemen naar de volgende iteratie
 - Hoe je vierkantjes maakt (4 lijnen en niet in één lijn)
 - Gebruik van hierarchie
 
-**WEEK 2**
+# **WEEK 2**
+
 De checkout vragen voor maandag 16-11-26:
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
-
+   Een digital garden blijft zich aanpassen en is iets persoonlijks. Ook heeft het niet één doel en is voor iedereen anders en een reguliere website heeft één doel.
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+   Onderdelen voor een webby zijn:
+
+- Duidelijke elementen zoals knoppen die groot genoeg zijn
+- Genoeg contrast tussen de elementen en kleur
+- Haalbaar en duidelijk te maken met CSS en HMTL
+- Duidelijke status van de knoppen
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma)
+   Mijn eerste idee gaat over het universum en dat je op de planeten kan klikken en dat je dan informatie krijgt met een thema
+   Mijn tweede idee gaat over films en dat je dan een film kan uitkiezen en dat dan de hele pagina die sfeer van die film wordt. Hierbij schrijf ik dan ook mijn mening over de film en de lessen die ik eruit haal.
+
+**Miro presentatie bord**
 
 **Vragenlijst:**
 
