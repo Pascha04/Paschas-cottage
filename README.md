@@ -93,19 +93,36 @@ De checkout vragen voor maandag 16-11-26:
 Ik had een presentatie gemaakt over mijn concept (het filmarchief) zodat ik dit kon presenteren aan een medestudenten zodat ik kan oefenen om over mijn concept te vertellen. (zie mapje oefeningen)
 Hiervoor heb ik mijn concept onderverdeelt in alle onderdelen die ik wilde benoemen:
 
-- ![presentatie collage](readme-images/week2/collage-van-afbeeldingen-film-idee-website.jpg)
+- Film aesthetic vertaald
+- Inspirerende quotes
+- Mijn reviews
+- Website elementen
 
-- **Eigen verbinding:**
-  - Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content?
-  - Heeft 'de ander' een aanvulling op je onderwerp?
-    zie het al helemaal voor me, dus goed uitgelegd. ook leuk dat je niet alleen beeld willen gebruiken maar ook geluid. Misschien ook vergelijkbare films laten zien als je eentje hebt gekozen.
-  - Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)
-    nostalgisch, old cinema/hollywood maar ook sfeervol door alle elementen. Ook moody door de ambience.
-  - Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
-    het oude terugbrengen voor homepagina en als je dan op de film klikt dat het dan de ambience veranderd. filmrol of spotlight op homepagina houden.
-    **Een stip op de horizon**
-  - Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).
-  - Vul deze zin aan:Ik wil mijn Digital Garden laten gaan over een film archief met de film ambience en wil dat laten zien door bijpassende kleuren, fonts, afbeeldingen en andere grafische elementen aan content te tonen. Ik begin met een stukje eigen content over films en mijn eigen favorieten. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door de persoonlijke ambience pagina’s te maken met belangrijke punten die je uit de film kunt halen.
+![presentatie collage](readme-images/week2/collage-van-afbeeldingen-film-idee-website.jpg)
+
+**Eigen verbinding:**
+
+- Heeft 'de ander' een aanvulling op je onderwerp?
+  zie het al helemaal voor me, dus goed uitgelegd. ook leuk dat je niet alleen beeld willen gebruiken maar ook geluid. Misschien ook vergelijkbare films laten zien als je eentje hebt gekozen.
+- Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)
+  nostalgisch, old cinema/hollywood maar ook sfeervol door alle elementen. Ook moody door de ambience.
+- Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.
+  het oude terugbrengen voor homepagina en als je dan op de film klikt dat het dan de ambience veranderd. filmrol of spotlight op homepagina houden.
+  **Een stip op de horizon**
+- Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).
+- Vul deze zin aan:Ik wil mijn Digital Garden laten gaan over een film archief met de film ambience en wil dat laten zien door bijpassende kleuren, fonts, afbeeldingen en andere grafische elementen aan content te tonen. Ik begin met een stukje eigen content over films en mijn eigen favorieten. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door de persoonlijke ambience pagina’s te maken met belangrijke punten die je uit de film kunt halen.
+
+Conclusies
+
+- Onderwerp duidelijk voor de andere
+- Voelt moody en dromerig
+
+geinspirereerd → concept: filmarchief → allerlei lessen en inspiratie die je uit films kan halen
+emotioneel → concept: filmarchief → films brengen allemaal emoties naar voren
+dromerig → films hebben een grote fantasie, van het idee tot de uitwerking van de look-en-feel
+artistiek → films zijn heel expressief met hun kunsten
+
+Uiteindelijk kies ik voor dromerig omdat het het beste uitlegt wat voor sfeer films geven: het zijn zoveel gekke verhalen net zoals degene die je in je dromen krijgt. Daarnaast zijn films ook magisch zoals dromen.
 
 **Miro presentatie visual research bord**
 Ik heb visual research gedaan naar mijn gekozen concept. Ik
