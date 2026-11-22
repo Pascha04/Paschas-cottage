@@ -20,7 +20,9 @@ html {
 /**************************
 * MARK: Algemene Styling
 **************************/
-
+ul {
+  width: 20px;
+}
 *,
 *::after,
 *::before {
