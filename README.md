@@ -183,6 +183,8 @@ Conclusies en wat ik zou kunnen toepassen:
 - Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
   Mij lijkt het idee met de tv en het kiezen van de films het leukste en ik wil dat combineren met een zweverige mysterieuze dromerige sfeer. Ik zou dan nog verder willen kijken naar hoe ik die woorden in mijn schetsen en concept kan toepassen en het niet te letterlijk maken.
 
+# **test**
+
 ## **Beoordeling webby schermschetsen medestudent**
 
 Vanuit mijn crazy8 heb ik meer schetsen gemaakt voor de mobiele versie. Hierbij heb ik meer van het zweverige en moody erin kunnen toepassen door bijvoorbeeld sterren en zwevende elementen toe te voegen (zwevende tv's, wolken). Dit hielp mij al een klein stapje verder om duidelijk een concept te kunnen neerzetten. Een medestudent heeft mij beoordeeld of mijn schetsen webby zijn. Het was lastig omdat het nog maar schetsen zijn en geen uitwerking, dus voor veel vragen moest je bedenken wat het antwoord zou zijn. De conclusie was dat ik al goede webby schetsen had en dat was erg fijn om te lezen/horen! Ik ben natuurlijk van plan om nog meer elementen toe te voegen zodat het al helemaal webby is, zoals de light/dark mode, alt tekst en duidelijke knoppen.
