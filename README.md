@@ -89,6 +89,16 @@ De checkout vragen voor maandag 16-11-26:
    Mijn eerste idee gaat over het universum en dat je op de planeten kan klikken en dat je dan informatie krijgt met een thema
    Mijn tweede idee gaat over films en dat je dan een film kan uitkiezen en dat dan de hele pagina die sfeer van die film wordt. Hierbij schrijf ik dan ook mijn mening over de film en de lessen die ik eruit haal.
 
+**Mijn bedachte concepten**
+
+- Film ambiences - bij elke film veranderd kleur font, vormen, evt muziek??? plaatje die ergens draait
+- Universum - een overzicht aan planeten en sterren die je kan inzoomen met een telescoop: elk planeet/ster verteld iets anders
+- Stripboek waarbij je door het verhaal heen bladert
+- Letterlijke garden waarbij je op elementen kan klikken (bv gieter, bloem, kruiwagen) en het elk iets anders laat zien
+- Schaakbord waarbij elke pion iets anders verteld/laat zien
+
+Ik had de ‘film ambiences’ en ‘universum’ concepten voorgelegd en besproken met Barbara en Vasilis en ze vonden het beiden allebei goede en orginele concepten, maar misschien kan ik kijken hoe ik het haalbaar kan maken voor deze 10 weken. Barbara benoemde ook dat het cool is als ik iets persoonlijks eraan toevoeg, bijvoorbeeld mijn mening van de films.
+
 **Presentatie en vragenlijst:**
 Ik had een presentatie gemaakt over mijn concept (het filmarchief) zodat ik dit kon presenteren aan een medestudenten zodat ik kan oefenen om over mijn concept te vertellen. (zie mapje oefeningen)
 Hiervoor heb ik mijn concept onderverdeelt in alle onderdelen die ik wilde benoemen:
@@ -126,3 +136,12 @@ Uiteindelijk kies ik voor dromerig omdat het het beste uitlegt wat voor sfeer fi
 
 **Miro presentatie visual research bord**
 Ik heb visual research gedaan naar mijn gekozen concept. Ik heb gekeken naar hoe ik het woord 'dromerig' kan vertalen naar beeld. Ik kreeg er een zweverig, gradient gevoel bij dus zocht daarnaar. Qua typografie wilde ik ook iets gradient/vervagends.
+
+**Feedback Barbara voor sprint 1**
+
+- Helder concept
+- Kan UL LI gebruiken
+- Wolken en sterren zijn misschien te letterlijk → hert zweverige is meer passender
+- Kijken naar welke fonts je kan gebruiken → gradient font is een leuk idee
+- Mag afbeeldingen gebruiken maar wel met bronvermelding
+- Goede hierarchie, goed dat je kan scrollen
