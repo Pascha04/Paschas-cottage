@@ -20,9 +20,7 @@ html {
 /**************************
 * MARK: Algemene Styling
 **************************/
-ul {
-  width: 20px;
-}
+
 *,
 *::after,
 *::before {
@@ -30,7 +28,7 @@ ul {
 }
 
 img {
-  max-width: 100%;
+  max-width: 60%;
 }
 
 body {
