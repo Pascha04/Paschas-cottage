@@ -183,6 +183,19 @@ Conclusies en wat ik zou kunnen toepassen:
 - Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
   Mij lijkt het idee met de tv en het kiezen van de films het leukste en ik wil dat combineren met een zweverige mysterieuze dromerige sfeer. Ik zou dan nog verder willen kijken naar hoe ik die woorden in mijn schetsen en concept kan toepassen en het niet te letterlijk maken.
 
+**Beoordeling webby schermschetsen medestudent**
+Vanuit mijn crazy8 heb ik meer schetsen gemaakt voor de mobiele versie. Hierbij heb ik meer van het zweverige en moody erin kunnen toepassen door bijvoorbeeld sterren en zwevende elementen toe te voegen (zwevende tv's, wolken). Dit hielp mij al een klein stapje verder om duidelijk een concept te kunnen neerzetten. Een medestudent heeft mij beoordeeld of mijn schetsen webby zijn. Het was lastig omdat het nog maar schetsen zijn en geen uitwerking, dus voor veel vragen moest je bedenken wat het antwoord zou zijn. De conclusie was dat ik al goede webby schetsen had en dat was erg fijn om te lezen/horen! Ik ben natuurlijk van plan om nog meer elementen toe te voegen zodat het al helemaal webby is, zoals de light/dark mode, alt tekst en duidelijke knoppen.
+![Schermschetsen mobiele versie](readme-images/week2/Schermschetsen-webby-beoordeling.jpg)
+![meest en minst webby websites](readme-images/week2/Schermschetsen-webby-beoordeling.jpg)
+Ook heb ik gekeken naar iemand anders hun schetsen. Dit hielp mij om scherp en kritisch te blijven en met eventuele inspiratie te komen voor bijvoorbeeld de hierarchie.
+
+Conclusies:
+
+- Schetsen zijn duidelijk en toegankelijk
+- Duidelijke speling met hierarchie
+
+Ik wil nog verdere schetsen maken en weten wat Barbara ervan vindt.
+
 **Feedback Barbara voor sprint 1**
 
 - Helder concept
@@ -191,6 +204,27 @@ Conclusies en wat ik zou kunnen toepassen:
 - Kijken naar welke fonts je kan gebruiken → gradient font is een leuk idee
 - Mag afbeeldingen gebruiken maar wel met bronvermelding
 - Goede hierarchie, goed dat je kan scrollen
+
+Hoe wil ik deze feedback toepassen?
+
+- Meer font onderzoek
+- UL LI uitproberen
+- Onderzoeken naar code inspiratie online
+- Meer schetsen van het zweverige maken
+
+**CSS grid**
+In de les van Sanne heb ik geleerd over de grid en op wat voor verschillende manieren je het kan toepassen. Ik had al wat voorkennis omdat ik vorig jaar ook een grid had toegepast, maar het was fijn om hier meer erover te leren omdat ik het wel een belangrijk onderwerp vind als je een website maakt. Ik ben aan de slag gegaan met verschillende oefeningen, zoals een grid correct toepassen in een ontwerp. Ik merkte dat het eigenlijk wel makkelijk was, dus ik was erg opgelucht.
+![Grid oefening 1](readme-images/week2/grid-oefening1.png)
+![Grid oefening 2](readme-images/week2/grid-oefening-2.png)
+![Grid oefening 3](readme-images/week2/grid-oefening3.png)
+Er was daarnaast ook een game waarbij je de grid kon oefenen. Deze vond ik erg leuk omdat je op een speelse manier ook leert hoe je een grid kan toepassen en op welke verschillende manieren dat mogelijk is. Soms was het even goed nadenken en hulp vragen maar uiteindelijk ben ik ver gekomen en daarvoor ben ik trots op mijzelf!
+![Grid game](readme-images/week2/grid-garden.png)
+
+Conclusies:
+
+- Grid kan op verschillende manieren worden toegepast
+- Grid is makkelijk
+- Grid maakt het overzichtelijk (wat ik wil voor mijn pagina zodat het toegankelijk blijft voor iedereen)
 
 # **Week 3**
 
