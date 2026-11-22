@@ -98,6 +98,7 @@ Als laatste heb ik bij de schets van een wok-menu, die ik bij Nicky's les had ge
 - Stripboek waarbij je door het verhaal heen bladert
 - Letterlijke garden waarbij je op elementen kan klikken (bv gieter, bloem, kruiwagen) en het elk iets anders laat zien
 - Schaakbord waarbij elke pion iets anders verteld/laat zien
+  ![Concept schetsen](readme-images/week2/concepten-schets.jpg)
 
 Ik had de ‘film ambiences’ en ‘universum’ concepten voorgelegd en besproken met Barbara en Vasilis en ze vonden het beiden allebei goede en orginele concepten, maar misschien kan ik kijken hoe ik het haalbaar kan maken voor deze 10 weken. Barbara benoemde ook dat het cool is als ik iets persoonlijks eraan toevoeg, bijvoorbeeld mijn mening van de films.
 
