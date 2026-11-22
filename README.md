@@ -189,6 +189,15 @@ Daarna zijn we met een ander tweetal gaan bespreken welke van ons 4 de beste en 
 - Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
   Mij lijkt het idee met de tv en het kiezen van de films het leukste en ik wil dat combineren met een zweverige mysterieuze dromerige sfeer. Ik zou dan nog verder willen kijken naar hoe ik die woorden in mijn schetsen en concept kan toepassen en het niet te letterlijk maken.
 
+**CSS kleuren**
+Ik heb in dit practicum geleerd over verschillende kleuren en hoe je dit kan toepassen. Ik vond het fijn dat er heel veel verschillende mogelijkheden werden getoond, omdat ik dan goed kan kijken welke het beste zou passen bij mijn ontwerp en die dan makkelijk kan coderen.
+![code kleur 1](readme-images/week2/code1-kleur.png)
+![opdracht kleur 1](readme-images/week2/verschillende-kleuren.png)
+![Code kleur 2](readme-images/week2/code1-kleur2.png)
+![opdracht kleur 2](readme-images/week2/kleur2.png)
+Als oefening had ik ook twee vlaggen nagemaakt. Dit was een uitdaging maar wel een fijne eerste oefening.
+![vlag oefening](readme-images/week2/vlag-oefening.png)
+
 ## **Beoordeling webby schermschetsen medestudent**
 
 Vanuit mijn crazy8 heb ik meer schetsen gemaakt voor de mobiele versie. Hierbij heb ik meer van het zweverige en moody erin kunnen toepassen door bijvoorbeeld sterren en zwevende elementen toe te voegen (zwevende tv's, wolken). Dit hielp mij al een klein stapje verder om duidelijk een concept te kunnen neerzetten. Een medestudent heeft mij beoordeeld of mijn schetsen webby zijn. Het was lastig omdat het nog maar schetsen zijn en geen uitwerking, dus voor veel vragen moest je bedenken wat het antwoord zou zijn. De conclusie was dat ik al goede webby schetsen had en dat was erg fijn om te lezen/horen! Ik ben natuurlijk van plan om nog meer elementen toe te voegen zodat het al helemaal webby is, zoals de light/dark mode, alt tekst en duidelijke knoppen.
