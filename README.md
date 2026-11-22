@@ -1,6 +1,6 @@
 # **WEEK 1**
 
-De checkout vragen 9/11/26:
+## **De checkout vragen 9/11/26:**
 
 1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
    Een source hosting platform is het platform waarop jouw website uiteindelijk komt te staan. Degene die ik heb gekozen is Github, omdat het gemakkelijk gaat en iedereen die gebruikt.
@@ -9,28 +9,29 @@ De checkout vragen 9/11/26:
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
    Je download sowieso de 'go-live' extension maar daarnaast zorg je er vooral voor dat je github is gekoppeld aan je VSCodium.
 
-Lelijke pagina opdracht
+## **Lelijke pagina opdracht**
 
-Proces opdracht
+**Proces opdracht**
 De opdracht is in tweeën verdeelt; een voorbereidings onderdeel die je voor de les maakt en het onderdeel dat we samen tijdens de les hebben gedaan.
 Vooraf kreeg je de opdracht om een aantal dingen in een website te doen, maar op de manier dat het niet erg prettig is om naar te kijken. Dit deed je met het programma Codepen, die gekoppeld is aan je Github account. Hierbij deed je je eigen gekozen tekst in de template (titels en broodtekst) en een afbeelding.
 Tijdens de les gingen we dingen toevoegen, zoals kleur, linkjes en een invulformulier. Zo veranderde de 'lelijke' pagina naar een iets minder lelijke pagina.
 ![lelijke pagina](readme-images/week1/Lelijke-pagina-over-platenspelers.png)
 ![lelijke pagina](readme-images/week1/Lelijke-pagina-over-platenspelers2.png)
 
-Wat heb ik geleerd
+**Wat heb ik geleerd**
 
 - Hoe je een invul formulier toevoegt
 - Hoe je iets linkt
   ![lelijke pagina](readme-images/week1/Code-voor-lelijke-pagina.png)
 
-Wat is handig om mee te nemen naar volgende stap:
+**Wat is handig om mee te nemen naar volgende stap:**
 
 - Hoe je een pagina mooier maakt
 - Kunnen linken/formulier toevoegen (als dat bij mijn concept past)
 
-CSS dive oefeningen
-Proces opdrachten
+## **CSS dive oefeningen**
+
+**Proces opdrachten**
 Vooraf was het huiswerk om een code game te spelen om alvast een introductie te krijgen met het coderen en oplossen. Hierdoor kreeg ik minder het gevoel dat ik in het diepe werd gegooid en ik vond het ook nog eens een leuke oefening (wel eerst frustrerend).
 ![code game](readme-images/week1/Css-game.png)
 
@@ -45,14 +46,15 @@ De tweede oefening was ook weer om twee dingen met een titel na te maken. Dit is
 ![css dive opdracht 2](readme-images/week1/cssdive-oefening2-code2.png)
 ![css dive opdracht 2](readme-images/week1/cssdive-oefening2-code3.png)
 
-Wat heb ik geleerd en wat ik zou kunnen toepassen
+**Wat heb ik geleerd en wat ik zou kunnen toepassen**
 
 - Grote eerste letter in de tekst (uit oefening 1)
 - Tekst schuin maken (uit oefening 2)
 - Een glow geven aan de tekst (uit oefening 2)
 
-Schetsen oefening
-Proces opdrachten
+## **Schetsen oefening**
+
+**Proces opdrachten**
 Ter voorbereiding had ik schetsen meegenomen van eerdere blokken en liet die beoordelen door mn medestudenten met goed, mid en slechst. Ik vond het fijn om te weten wat anderen van mijn schetsen vonden.
 ![schets beoordeling 1](readme-images/week1/schets-beoordeling1.jpg)
 ![schets beoordeling 2](readme-images/week1/schets-beoordeling2.jpg)
@@ -65,7 +67,7 @@ Daarna deden we wat schetsopdrachtjes, zoals het maken van gelijke strepen en vi
 Als laatste heb ik bij de schets van een wok-menu, die ik bij Nicky's les had gemaakt, een animatie toegevoegd. Hierbij maakte ik ook weer gebruik van de kleuren en vormen en proces van hoe de animatie tot stand komt. Dit is handig om te weten als je wilt laten zien wat de animaties zijn.
 ![wokschets](readme-images/week1/wokschetsen-met-animatie.jpg)
 
-Wat heb ik geleerd en kan ik meenemen naar de volgende iteratie
+**Wat heb ik geleerd en kan ik meenemen naar de volgende iteratie**
 
 - Animatie schetsen
 - Hoe je vierkantjes maakt (4 lijnen en niet in één lijn)
@@ -73,7 +75,7 @@ Wat heb ik geleerd en kan ik meenemen naar de volgende iteratie
 
 # **WEEK 2**
 
-De checkout vragen voor maandag 16-11-26:
+## **De checkout vragen voor maandag 16-11-26:**
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
    Een digital garden blijft zich aanpassen en is iets persoonlijks. Ook heeft het niet één doel en is voor iedereen anders en een reguliere website heeft één doel.
@@ -89,7 +91,7 @@ De checkout vragen voor maandag 16-11-26:
    Mijn eerste idee gaat over het universum en dat je op de planeten kan klikken en dat je dan informatie krijgt met een thema
    Mijn tweede idee gaat over films en dat je dan een film kan uitkiezen en dat dan de hele pagina die sfeer van die film wordt. Hierbij schrijf ik dan ook mijn mening over de film en de lessen die ik eruit haal.
 
-**Mijn bedachte concepten**
+## **Mijn bedachte concepten**
 
 - Film ambiences - bij elke film veranderd kleur font, vormen, evt muziek??? plaatje die ergens draait
 - Universum - een overzicht aan planeten en sterren die je kan inzoomen met een telescoop: elk planeet/ster verteld iets anders
@@ -99,7 +101,8 @@ De checkout vragen voor maandag 16-11-26:
 
 Ik had de ‘film ambiences’ en ‘universum’ concepten voorgelegd en besproken met Barbara en Vasilis en ze vonden het beiden allebei goede en orginele concepten, maar misschien kan ik kijken hoe ik het haalbaar kan maken voor deze 10 weken. Barbara benoemde ook dat het cool is als ik iets persoonlijks eraan toevoeg, bijvoorbeeld mijn mening van de films.
 
-**Presentatie en vragenlijst:**
+## **Presentatie en vragenlijst:**
+
 Ik had een presentatie gemaakt over mijn concept (het filmarchief) zodat ik dit kon presenteren aan een medestudenten zodat ik kan oefenen om over mijn concept te vertellen. (zie mapje oefeningen)
 Hiervoor heb ik mijn concept onderverdeelt in alle onderdelen die ik wilde benoemen:
 
@@ -110,7 +113,7 @@ Hiervoor heb ik mijn concept onderverdeelt in alle onderdelen die ik wilde benoe
 
 ![presentatie collage](readme-images/week2/collage-van-afbeeldingen-film-idee-website.jpg)
 
-**Eigen verbinding:**
+## **Eigen verbinding:**
 
 - Heeft 'de ander' een aanvulling op je onderwerp?
   zie het al helemaal voor me, dus goed uitgelegd. ook leuk dat je niet alleen beeld willen gebruiken maar ook geluid. Misschien ook vergelijkbare films laten zien als je eentje hebt gekozen.
@@ -122,7 +125,7 @@ Hiervoor heb ik mijn concept onderverdeelt in alle onderdelen die ik wilde benoe
 - Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's).
 - Vul deze zin aan:Ik wil mijn Digital Garden laten gaan over een film archief met de film ambience en wil dat laten zien door bijpassende kleuren, fonts, afbeeldingen en andere grafische elementen aan content te tonen. Ik begin met een stukje eigen content over films en mijn eigen favorieten. Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door de persoonlijke ambience pagina’s te maken met belangrijke punten die je uit de film kunt halen.
 
-Conclusies
+**Conclusies**
 
 - Onderwerp duidelijk voor de andere
 - Voelt moody en dromerig
@@ -134,7 +137,8 @@ artistiek → films zijn heel expressief met hun kunsten
 
 Uiteindelijk kies ik voor dromerig omdat het het beste uitlegt wat voor sfeer films geven: het zijn zoveel gekke verhalen net zoals degene die je in je dromen krijgt. Daarnaast zijn films ook magisch zoals dromen.
 
-**Visual research**
+## **Visual research**
+
 Voor mijn visual research ben ik op zoek gegaan naar abstracte afbeeldingen die mijn sfeerwoord 'dromerig' goed kunnen uitbeelden. Bij het woord kreeg ik een flowy, gradient en moody sfeer die ik heb kunnen terugvinden in beelden. Er zit ook een tintje mysterieusheid achter omdat dromen en films ook wel mysterieus en onvoorspelbaar zijn.
 ![Stap 1 visual research](readme-images/week2/Miro-stap1.png)
 De volgende stap was het vinden van typografie en typografische posters. Ik wilde hiervoor het flowy en gradient terugbrengen. Ook wilde ik niet een dun fontje omdat het dan wegvalt met de gradient en andere elementen. Ik vind dat het aflopende font het erg helpt met de sfeerbepaling en al gelijk een moody, mysterieuze 'vibe' geeft die ik precies wil hebben voor mijn digital garden!
@@ -147,32 +151,33 @@ Toen ben ik een crazy 8 gaan maken op basis van deze visual research om mij te h
 Ik vond het daarom wel fijn om aan een medestudent te vragen welke zij het beste en minst best vond. Uiteindelijk vond zij de opties met het tv'tje en de film keuzes eronder het beste omdat het overzichtelijk was en gelijk duidelijk maakte wat je kon doen. De minst favoriete was die met de wolken omdat die te letterlijk waren en niet goed het moody en mysterieuze naar voren laten komen.
 ![Crazy 8 beste beoordeling](readme-images/week2/Beste-keuze-crazy8.jpg)
 
-Conclusies
+**Conclusies**
 
 - Niet te letterlijk maken
 - Het moet wel duidelijk blijven wat je kan doen
 - Gradient en mysterieuze is een goede keuze
 
-Wat neem ik mee naar het volgende
+**Wat neem ik mee naar het volgende**
 
 - Gradient
 - Aflopend naar vervaging
 - Duidelijke hierarchie
 - Zwevend
 
-**Analyse websites**
+## **Analyse websites**
+
 Ik ben in een duo websites gaan analyseren of die webby zijn. Allebei de websites vond ik erg onoverzichtelijk en slordig. Ik vond het uiteindelijk een goed voorbeeld van hoe ik het NIET wil gaan doen.
 ![webby analyse websites](readme-images/week2/Analyse-websites.jpg)
 Daarna zijn we met een ander tweetal gaan bespreken welke van ons 4 de beste en slechtste websites zijn. De beste website was erg overzichtelijk en had veel ademruimte met duidelijke knoppen. De slechtste was juist rommelig en onduidelijk qua hierarchie.
 ![meest en minst webby websites](readme-images/week2/Meest-en-minst-webby-website.jpg)
 
-Conclusies en wat ik zou kunnen toepassen:
+**Conclusies en wat ik zou kunnen toepassen:**
 
 - Light/dark modus kan op creatieve manieren worden toegepast in plaats van alleen een knopje. Voor mijn idee dacht ik misschien een filmlicht spotlight, omdat mijn concept met films te maken heeft.
 - Een focus en hover state is duidelijk voor de buttons. Maak deze buttons ook groot genoeg zodat het toegankelijk blijft voor elke gebruiker.
 - Onderschrift voor afbeeldingen en buttons is belangrijk voor bijvoorbeeld slechtziende of als de website niet meer goed werkt.
 
-**Check-out woensdag 18/11/26**
+## **Check-out woensdag 18/11/26**
 
 - Leg uit waar het Visual Research in 3 stappen naartoe werkt
   Stap 1: beeldverzameling: zo krijg je een idee van welke uitstraling jouw concept zal hebben.
@@ -183,8 +188,6 @@ Conclusies en wat ik zou kunnen toepassen:
 - Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
   Mij lijkt het idee met de tv en het kiezen van de films het leukste en ik wil dat combineren met een zweverige mysterieuze dromerige sfeer. Ik zou dan nog verder willen kijken naar hoe ik die woorden in mijn schetsen en concept kan toepassen en het niet te letterlijk maken.
 
-# **test**
-
 ## **Beoordeling webby schermschetsen medestudent**
 
 Vanuit mijn crazy8 heb ik meer schetsen gemaakt voor de mobiele versie. Hierbij heb ik meer van het zweverige en moody erin kunnen toepassen door bijvoorbeeld sterren en zwevende elementen toe te voegen (zwevende tv's, wolken). Dit hielp mij al een klein stapje verder om duidelijk een concept te kunnen neerzetten. Een medestudent heeft mij beoordeeld of mijn schetsen webby zijn. Het was lastig omdat het nog maar schetsen zijn en geen uitwerking, dus voor veel vragen moest je bedenken wat het antwoord zou zijn. De conclusie was dat ik al goede webby schetsen had en dat was erg fijn om te lezen/horen! Ik ben natuurlijk van plan om nog meer elementen toe te voegen zodat het al helemaal webby is, zoals de light/dark mode, alt tekst en duidelijke knoppen.
@@ -192,14 +195,14 @@ Vanuit mijn crazy8 heb ik meer schetsen gemaakt voor de mobiele versie. Hierbij 
 ![meest en minst webby websites](readme-images/week2/Schermschetsen-webby-beoordeling.jpg)
 Ook heb ik gekeken naar iemand anders hun schetsen. Dit hielp mij om scherp en kritisch te blijven en met eventuele inspiratie te komen voor bijvoorbeeld de hierarchie.
 
-Conclusies:
+**Conclusies:**
 
 - Schetsen zijn duidelijk en toegankelijk
 - Duidelijke speling met hierarchie
 
 Ik wil nog verdere schetsen maken en weten wat Barbara ervan vindt.
 
-**Feedback Barbara voor sprint 1**
+## **Feedback Barbara voor sprint 1**
 
 - Helder concept
 - Kan UL LI gebruiken
@@ -208,14 +211,15 @@ Ik wil nog verdere schetsen maken en weten wat Barbara ervan vindt.
 - Mag afbeeldingen gebruiken maar wel met bronvermelding
 - Goede hierarchie, goed dat je kan scrollen
 
-Hoe wil ik deze feedback toepassen?
+**Hoe wil ik deze feedback toepassen?**
 
 - Meer font onderzoek
 - UL LI uitproberen
 - Onderzoeken naar code inspiratie online
 - Meer schetsen van het zweverige maken
 
-**CSS grid**
+## **CSS grid**
+
 In de les van Sanne heb ik geleerd over de grid en op wat voor verschillende manieren je het kan toepassen. Ik had al wat voorkennis omdat ik vorig jaar ook een grid had toegepast, maar het was fijn om hier meer erover te leren omdat ik het wel een belangrijk onderwerp vind als je een website maakt. Ik ben aan de slag gegaan met verschillende oefeningen, zoals een grid correct toepassen in een ontwerp. Ik merkte dat het eigenlijk wel makkelijk was, dus ik was erg opgelucht.
 ![Grid oefening 1](readme-images/week2/grid-oefening1.png)
 ![Grid oefening 2](readme-images/week2/grid-oefening-2.png)
@@ -223,7 +227,7 @@ In de les van Sanne heb ik geleerd over de grid en op wat voor verschillende man
 Er was daarnaast ook een game waarbij je de grid kon oefenen. Deze vond ik erg leuk omdat je op een speelse manier ook leert hoe je een grid kan toepassen en op welke verschillende manieren dat mogelijk is. Soms was het even goed nadenken en hulp vragen maar uiteindelijk ben ik ver gekomen en daarvoor ben ik trots op mijzelf!
 ![Grid game](readme-images/week2/grid-garden.png)
 
-Conclusies:
+**Conclusies:**
 
 - Grid kan op verschillende manieren worden toegepast
 - Grid is makkelijk
@@ -231,7 +235,7 @@ Conclusies:
 
 # **Week 3**
 
-**Aantekeningen voorbereiding bi-weekly geek**
+## **Aantekeningen voorbereiding bi-weekly geek**
 
 - Tellyhouse north is waar alle computers, kabels, cooling equipments worden geplaatst
 - Bestaat ongeveer 50 jaar
