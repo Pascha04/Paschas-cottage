@@ -137,7 +137,7 @@ Uiteindelijk kies ik voor dromerig omdat het het beste uitlegt wat voor sfeer fi
 **Visual research**
 Voor mijn visual research ben ik op zoek gegaan naar abstracte afbeeldingen die mijn sfeerwoord 'dromerig' goed kunnen uitbeelden. Bij het woord kreeg ik een flowy, gradient en moody sfeer die ik heb kunnen terugvinden in beelden. Er zit ook een tintje mysterieusheid achter omdat dromen en films ook wel mysterieus en onvoorspelbaar zijn.
 ![Stap 1 visual research](readme-images/week2/Miro-stap1.png)
-De volgende stap was het vinden van typografie en typografische posters. Ik wilde hiervoor het flowy en gradient terugbrengen. Ook wilde ik niet een dun fontje omdat het dan wegvalt met de gradient en andere elementen.
+De volgende stap was het vinden van typografie en typografische posters. Ik wilde hiervoor het flowy en gradient terugbrengen. Ook wilde ik niet een dun fontje omdat het dan wegvalt met de gradient en andere elementen. Ik vind dat het aflopende font het erg helpt met de sfeerbepaling en al gelijk een moody, mysterieuze 'vibe' geeft die ik precies wil hebben voor mijn digital garden!
 ![Stap 2 visual research](readme-images/week2/Miro-stap2.png)
 Ik heb de vier meest aansprekende typografische posters uitgekozen en benoemd hoe ik het kan gebruiken voor mijn concept, dus bijvoorbeeld het gebruiken van een blur of een speling van de letters en een duidelijk contrast maken van kleur zodat het niet wegvalt.
 ![Stap 3 visual research](readme-images/week2/Miro-stap3.png)
@@ -146,6 +146,19 @@ Toen ben ik een crazy 8 gaan maken op basis van deze visual research om mij te h
 ![Crazy 8](readme-images/week2/Crazy8.jpg)
 Ik vond het daarom wel fijn om aan een medestudent te vragen welke zij het beste en minst best vond. Uiteindelijk vond zij de opties met het tv'tje en de film keuzes eronder het beste omdat het overzichtelijk was en gelijk duidelijk maakte wat je kon doen. De minst favoriete was die met de wolken omdat die te letterlijk waren en niet goed het moody en mysterieuze naar voren laten komen.
 ![Crazy 8 beste beoordeling](readme-images/week2/Beste-keuze-crazy8.jpg)
+
+Conclusies
+
+- Niet te letterlijk maken
+- Het moet wel duidelijk blijven wat je kan doen
+- Gradient en mysterieuze is een goede keuze
+
+Wat neem ik mee naar het volgende
+
+- Gradient
+- Aflopend naar vervaging
+- Duidelijke hierarchie
+- Zwevend
 
 **Analyse websites**
 Ik ben in een duo websites gaan analyseren of die webby zijn. Allebei de websites vond ik erg onoverzichtelijk en slordig. Ik vond het uiteindelijk een goed voorbeeld van hoe ik het NIET wil gaan doen.
@@ -159,8 +172,16 @@ Conclusies en wat ik zou kunnen toepassen:
 - Een focus en hover state is duidelijk voor de buttons. Maak deze buttons ook groot genoeg zodat het toegankelijk blijft voor elke gebruiker.
 - Onderschrift voor afbeeldingen en buttons is belangrijk voor bijvoorbeeld slechtziende of als de website niet meer goed werkt.
 
-**Miro presentatie visual research bord**
-Ik heb visual research gedaan naar mijn gekozen concept. Ik heb gekeken naar hoe ik het woord 'dromerig' kan vertalen naar beeld. Ik kreeg er een zweverig, gradient gevoel bij dus zocht daarnaar. Qua typografie wilde ik ook iets gradient/vervagends.
+**Check-out woensdag 18/11/26**
+
+- Leg uit waar het Visual Research in 3 stappen naartoe werkt
+  Stap 1: beeldverzameling: zo krijg je een idee van welke uitstraling jouw concept zal hebben.
+  Stap 2: typografie: is net zo belangrijk als beeld. het bepaald welke uitstraling het zal hebben en goed kijken of het aansluit aan de beelden.
+  Stap 3: hoe toepassen/crazy 8: je kijkt wat nuttig en relevant is voor je concept en hoe je het kan overzetten en dat doe je door middel van crazy8 schetsen. Zo maak je een snel begin van je concept.
+- Vertel in 2 zinnen waar jouw Garden over gaat, en met welke content je dat gaat doen (beeld, tekst, sound, animatie enz).
+  Mijn garden is een film archief waarbij je leert/leest over verschillende films; wat de film is, de visuals, mijn eigen mening en welke lessen je eruit kan halen. Hierbij wil ik sowieso gebruik maken van beeld en tekst met een kleine toevoeging van smalle, niet te afleidende animaties en geluid als ik daar tijd voor heb.
+- Vertel kort welk idee van de Crazy 8 je het liefst zou willen uitvoeren/ verder zou willen onderzoeken.
+  Mij lijkt het idee met de tv en het kiezen van de films het leukste en ik wil dat combineren met een zweverige mysterieuze dromerige sfeer. Ik zou dan nog verder willen kijken naar hoe ik die woorden in mijn schetsen en concept kan toepassen en het niet te letterlijk maken.
 
 **Feedback Barbara voor sprint 1**
 
