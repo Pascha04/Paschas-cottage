@@ -134,6 +134,31 @@ artistiek → films zijn heel expressief met hun kunsten
 
 Uiteindelijk kies ik voor dromerig omdat het het beste uitlegt wat voor sfeer films geven: het zijn zoveel gekke verhalen net zoals degene die je in je dromen krijgt. Daarnaast zijn films ook magisch zoals dromen.
 
+**Visual research**
+Voor mijn visual research ben ik op zoek gegaan naar abstracte afbeeldingen die mijn sfeerwoord 'dromerig' goed kunnen uitbeelden. Bij het woord kreeg ik een flowy, gradient en moody sfeer die ik heb kunnen terugvinden in beelden. Er zit ook een tintje mysterieusheid achter omdat dromen en films ook wel mysterieus en onvoorspelbaar zijn.
+![Stap 1 visual research](readme-images/week2/Miro-stap1.png)
+De volgende stap was het vinden van typografie en typografische posters. Ik wilde hiervoor het flowy en gradient terugbrengen. Ook wilde ik niet een dun fontje omdat het dan wegvalt met de gradient en andere elementen.
+![Stap 2 visual research](readme-images/week2/Miro-stap2.png)
+Ik heb de vier meest aansprekende typografische posters uitgekozen en benoemd hoe ik het kan gebruiken voor mijn concept, dus bijvoorbeeld het gebruiken van een blur of een speling van de letters en een duidelijk contrast maken van kleur zodat het niet wegvalt.
+![Stap 3 visual research](readme-images/week2/Miro-stap3.png)
+
+Toen ben ik een crazy 8 gaan maken op basis van deze visual research om mij te helpen met het idee vanuit mijn hoofd op papier te krijgen. Ik dacht hierbij vooral aan het sfeerwoord 'dromerig' en heb dan ook bij sommige wolken of zweverige elementen toegevoegd. Ik zou nog wel verder willen schetsen omdat ik merkte dat ik het lastig vond om mijn concept op papier te zetten en wat het beste idee is.
+![Crazy 8](readme-images/week2/Crazy8.jpg)
+Ik vond het daarom wel fijn om aan een medestudent te vragen welke zij het beste en minst best vond. Uiteindelijk vond zij de opties met het tv'tje en de film keuzes eronder het beste omdat het overzichtelijk was en gelijk duidelijk maakte wat je kon doen. De minst favoriete was die met de wolken omdat die te letterlijk waren en niet goed het moody en mysterieuze naar voren laten komen.
+![Crazy 8 beste beoordeling](readme-images/week2/Beste-keuze-crazy8.jpg)
+
+**Analyse websites**
+Ik ben in een duo websites gaan analyseren of die webby zijn. Allebei de websites vond ik erg onoverzichtelijk en slordig. Ik vond het uiteindelijk een goed voorbeeld van hoe ik het NIET wil gaan doen.
+![webby analyse websites](readme-images/week2/Analyse-websites.jpg)
+Daarna zijn we met een ander tweetal gaan bespreken welke van ons 4 de beste en slechtste websites zijn. De beste website was erg overzichtelijk en had veel ademruimte met duidelijke knoppen. De slechtste was juist rommelig en onduidelijk qua hierarchie.
+![meest en minst webby websites](readme-images/week2/Meest-en-minst-webby-website.jpg)
+
+Conclusies en wat ik zou kunnen toepassen:
+
+- Light/dark modus kan op creatieve manieren worden toegepast in plaats van alleen een knopje. Voor mijn idee dacht ik misschien een filmlicht spotlight, omdat mijn concept met films te maken heeft.
+- Een focus en hover state is duidelijk voor de buttons. Maak deze buttons ook groot genoeg zodat het toegankelijk blijft voor elke gebruiker.
+- Onderschrift voor afbeeldingen en buttons is belangrijk voor bijvoorbeeld slechtziende of als de website niet meer goed werkt.
+
 **Miro presentatie visual research bord**
 Ik heb visual research gedaan naar mijn gekozen concept. Ik heb gekeken naar hoe ik het woord 'dromerig' kan vertalen naar beeld. Ik kreeg er een zweverig, gradient gevoel bij dus zocht daarnaar. Qua typografie wilde ik ook iets gradient/vervagends.
 
@@ -145,3 +170,22 @@ Ik heb visual research gedaan naar mijn gekozen concept. Ik heb gekeken naar hoe
 - Kijken naar welke fonts je kan gebruiken → gradient font is een leuk idee
 - Mag afbeeldingen gebruiken maar wel met bronvermelding
 - Goede hierarchie, goed dat je kan scrollen
+
+# **Week 3**
+
+**Aantekeningen voorbereiding bi-weekly geek**
+
+- Tellyhouse north is waar alle computers, kabels, cooling equipments worden geplaatst
+- Bestaat ongeveer 50 jaar
+- 29 oktober 1969 was het allereerste bericht gestuurd: “log in”. het crashte voordat het bij de letter g kwam
+- Robert Kahn named the internet
+- Internet is niet world wide web
+- Request iets bekijken → video wordt in stukjes verdeeld zodat het niet crasht
+- Probleem: juiste informatie onderscheiden van foutieve informatie
+- AWS, microsoft azure & google cloud zijn 60% van cloud computing
+- US-EAST-1 is 70% van internet traffic. het is gevoelig voor technische storingen maar ook cyber attacks, geopolitieke sabotage en terrorisme
+- De publieke diensten, industriële innovatie en AI-ambities van europa zijn erg gevoelig omdat functioneert op een digitale ruggengraat die het continent niet in eigendom heeft, niet reguleert en zelfs niet volledig begrijpt
+- World wide web is gecreeerd door tim berners-lee met als functie dat het door iedereen gebruikt zou kunnen worden
+- Het werd erg commercieel gemaakt door Amerikanen. Hierdoor kreeg het internet een ‘profit’ design. Tim vind dit toxic
+- Websites zijn niet transparant met waar je data heen gaat
+- Hij is bang dat AI binnenkort niet meer goedaardig zal zijn, wat je dus niet kan controleren
