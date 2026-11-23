@@ -29,6 +29,8 @@ html {
 
 img {
   max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 body {
@@ -46,7 +48,12 @@ body {
 /**************************
 * MARK: Main
 **************************/
-
+main {
+  max-width: 30em;
+  margin: auto;
+  display: grid;
+  gap: 1em;
+}
 /**************************
 * MARK: Section ...
 **************************/
