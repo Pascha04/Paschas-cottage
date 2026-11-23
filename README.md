@@ -261,3 +261,8 @@ Er was daarnaast ook een game waarbij je de grid kon oefenen. Deze vond ik erg l
 - Het werd erg commercieel gemaakt door Amerikanen. Hierdoor kreeg het internet een ‘profit’ design. Tim vind dit toxic
 - Websites zijn niet transparant met waar je data heen gaat
 - Hij is bang dat AI binnenkort niet meer goedaardig zal zijn, wat je dus niet kan controleren
+
+## **Uiteindelijke schets en dag/nacht mode**
+
+Ik was nog niet helemaal zeker wat voor ontwerp ik wilde gaan gebruiken als eindwerk dus ik heb daarom nog een eindschets gemaakt waarbij ik het duidelijk kan maken waar ik heen wil gaan met mijn ontwerp. Hiervoor had ik ook gekeken naar een light/dark modus en hoe ik dat passend kan maken met mijn concept. Hiervoor dacht ik dat het wel leuk zou zijn als ik een soort film licht kan gebruiken.
+![Uiteindelijke schets](readme-images/week3/definitieve-schetsen-en-lightdarkmode.jpg)
