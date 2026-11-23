@@ -64,13 +64,13 @@ article:first-child {
 }
 
 article {
-  background-color: blue;
-  color: red;
+  background-color: oklch(0.4583 0.122 267.72);
+  color: oklch(0.9725 0.0045 314.8);
   padding: 1em;
 }
 
 article:first-child {
-  background-color: pink;
+  background-color: oklch(0.5713 0.1568 293.56);
 }
 
 ul {
