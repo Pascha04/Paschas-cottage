@@ -61,7 +61,7 @@ main {
 article:first-child {
   /* nb. niet nodig voor de eerste 3 sommetjes */
   grid-column-start: 1;
-  grid-column-end: 5;
+  grid-column-end: 8;
 }
 
 article {
