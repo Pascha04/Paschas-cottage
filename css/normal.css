@@ -100,9 +100,7 @@ article:nth-child(2) {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(1, 1fr);
-  gap: 3em;
-  outline-style: dashed;
-  outline-color: white;
+  gap: none;
 }
 
 ul {
@@ -112,4 +110,9 @@ ul {
   display: grid;
   gap: 2em;
   max-width: 30em;
+}
+
+div {
+  outline-style: groove;
+  outline-color: brown;
 }

@@ -293,5 +293,16 @@ Ik heb op basis van mijn feedback (nog verder naar fonts zoeken) meer en concree
 ![Fonts opties](readme-images/week3/Fonts-opties.jpg)
 Ik vond het lastig om eentje te kiezen omdat ik ze allemaal wel goed vond passen maar heb toch gekozen voor 'Garden Delight' en 'Canelope' omdat die subtiel het speelse en magische naar voren halen en het alsnog duidelijk houden, omdat het natuurlijk wel leesbaar moet blijven.
 Daarnaast heb ik voor een kleurenpalette gekozen met veel paars en blauw omdat dat mij doet denken aan de ruimte en dromen. Ook wilde ik gelijksoortige kleuren gebruiken omdat ze dat bij films ook altijd doen om een bepaalde sfeer te creeëren.
-Voor illustraties heb ik een film-licht gebruikt die ik wil gaan gebruiken voor de dag en nacht modus, een scenebord die ik wil toepassen om de sfeer meer film achtig te maken en een poppetje van mij om te kunnen toevoegen bij het stukje van 'mijn mening'. Ik denk niet dat ik specifiek deze illustratie daarvoor wil gebruiken (het poppetje) maar dan is er wel al een beetje een beeld van welke richting ik op wil gaan.
+Voor illustraties heb ik een film-licht gebruikt die ik wil gaan gebruiken voor de dag en nacht modus, een scenebord die ik wil toepassen om de sfeer meer film achtig te maken en een poppetje van mij om te kunnen toevoegen bij het stukje van 'mijn mening'. Ik denk niet dat ik specifiek deze illustratie daarvoor wil gebruiken (het poppetje) maar dan is er wel al een beetje een beeld van welke richting ik op wil gaan. Het leek mij leuk om het poppetje in de stijl van de gekozen film te doen.
 ![Styleguide](readme-images/week3/Styleguide-digital-garden.jpg)
+
+## **Proces website**
+
+Ik begin met te zeggen dat het moeilijker is dan ik had gedacht, wat ik altijd zeg als ik ga coderen. Ik heb namelijk de practicums gevolgd, maar als je dan het zelf moet gaan doen lijkt het alsof het allemaal mijn hoofd uit is.
+Daarom ben ik begonnen met ik wel wist en al een beetje gaan spelen met de code die er al in stond.
+![Begin website](readme-images/week3/1e-begin-website.png)
+Ik was van plan om met de UL en LI de film posters naast elkaar te zetten, maar dat lukte niet.
+![UL LI code](readme-images/week3/UL-LI-proberen.png)
+Daarom ben ik gaan kijken naar een grid mogelijkheid. Omdat ik het lastig vind om op te starten met een website, heb ik de website gebruikt 'grid generator' omdat sanne zei dat dat een handige website is voor grids maken. Zo heb ik een grid opzetje gemaakt en heb ik getest of het was gelukt met een border. Gelukt! Alleen nu zijn de fonts weg?
+![Grid generator](readme-images/week3/grid-generator.png)
+![Grid films naast elkaar](readme-images/week3/films-naast-elkaar.png)
