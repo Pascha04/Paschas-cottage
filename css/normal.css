@@ -45,7 +45,7 @@ html {
 }
 
 img {
-  max-width: 100%;
+  max-width: 10em;
   height: auto;
   display: block;
 }
@@ -92,6 +92,19 @@ article:first-child {
   background-color: oklch(0.5713 0.1568 293.56);
 }
 
+article:nth-child(2) {
+  background-color: var(--donkerrozepaars);
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(1, 1fr);
+  gap: 3em;
+  outline-style: dashed;
+  outline-color: white;
+}
+
 ul {
   list-style: none;
   margin: 0em;
@@ -99,8 +112,4 @@ ul {
   display: grid;
   gap: 2em;
   max-width: 30em;
-}
-
-gradient:nth-of-type(3) {
-  background-image: radial-gradient(circle in oklch, var(--geel), var(--blauw));
 }
