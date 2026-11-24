@@ -51,8 +51,13 @@ img {
 }
 
 body {
-  font-family: "Comic Relief", system-ui;
+  font-family: "Garden-delight", system-ui;
   background-color: oklch(0.6047 0.1504 319.74);
+}
+
+h2,
+p {
+  font-family: "canelope", system-ui;
 }
 
 /**************************
@@ -100,9 +105,12 @@ article:nth-child(2) {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(1, 1fr);
-  gap: none;
+  gap: 2em 2em;
 }
 
+.parent:hover {
+  transform: scale(1.1);
+}
 ul {
   list-style: none;
   margin: 0em;
@@ -110,9 +118,4 @@ ul {
   display: grid;
   gap: 2em;
   max-width: 30em;
-}
-
-div {
-  outline-style: groove;
-  outline-color: brown;
 }
