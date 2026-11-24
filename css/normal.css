@@ -15,6 +15,16 @@
 
 html {
   color-scheme: light dark;
+  --lichtblauw: oklch(0.4583 0.122 267.72);
+  --rozepaars: oklch(0.6047 0.1504 319.74);
+  --paars: oklch(0.5713 0.1568 293.56);
+  --wit: oklch(0.9725 0.0045 314.8);
+  --blauw: oklch(0.2592 0.1525 278.76);
+  --donkerblauw: oklch(0.3151 0.0741 267.53);
+  --donkerrozepaars: oklch(0.4043 0.0944 320.21);
+  --donkerpaars: oklch(0.3843 0.0979 293.78);
+  --blauwzwart: oklch(0.1785 0.0991 283.34);
+  --zwart: oklch(0.1785 0 283.34);
 }
 
 /**************************
@@ -50,7 +60,7 @@ body {
 * MARK: Main
 **************************/
 main {
-  max-width: 30em;
+  max-width: 80em;
   margin: auto;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
@@ -68,6 +78,7 @@ article {
   background-color: oklch(0.4583 0.122 267.72);
   color: oklch(0.9725 0.0045 314.8);
   padding: 1em;
+  grid-column: 1/5;
 }
 
 article:first-child {
@@ -81,4 +92,8 @@ ul {
   display: grid;
   gap: 2em;
   max-width: 30em;
+}
+
+gradient:nth-of-type(3) {
+  background-image: radial-gradient(circle in oklch, var(--geel), var(--blauw));
 }

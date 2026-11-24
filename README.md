@@ -266,3 +266,32 @@ Er was daarnaast ook een game waarbij je de grid kon oefenen. Deze vond ik erg l
 
 Ik was nog niet helemaal zeker wat voor ontwerp ik wilde gaan gebruiken als eindwerk dus ik heb daarom nog een eindschets gemaakt waarbij ik het duidelijk kan maken waar ik heen wil gaan met mijn ontwerp. Hiervoor had ik ook gekeken naar een light/dark modus en hoe ik dat passend kan maken met mijn concept. Hiervoor dacht ik dat het wel leuk zou zijn als ik een soort film licht kan gebruiken.
 ![Uiteindelijke schets](readme-images/week3/definitieve-schetsen-en-lightdarkmode.jpg)
+
+## **Checkout maandag 23/11/26**
+
+Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen?
+
+Het is lelijk wanneer het:
+
+- onoverzichtelijk is
+- uitlijnend naar rechts
+- uitlopende tekst
+- niet consistent
+- kleine knoppen
+
+Vertel welke volgende stap je neemt om je website responsive te maken.
+
+- hover en focus state op buttons
+- linkjes
+- grid die meeschaalt
+
+Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+## **Styleguide**
+
+Ik heb op basis van mijn feedback (nog verder naar fonts zoeken) meer en concreet gezocht naar fonts die bij mijn concept passen. Ik was op zoek naar een combinatie van chique en zweverig/dromerig in een speels achtig font. Ik wil eentje die wat meer speels is voor de titels en eentje voor broodtekst. Hiervoor heb ik gekeken op dafont zodat ik het als een ttf of otf bestand kan downloaden.
+![Fonts opties](readme-images/week3/Fonts-opties.jpg)
+Ik vond het lastig om eentje te kiezen omdat ik ze allemaal wel goed vond passen maar heb toch gekozen voor 'Garden Delight' en 'Canelope' omdat die subtiel het speelse en magische naar voren halen en het alsnog duidelijk houden, omdat het natuurlijk wel leesbaar moet blijven.
+Daarnaast heb ik voor een kleurenpalette gekozen met veel paars en blauw omdat dat mij doet denken aan de ruimte en dromen. Ook wilde ik gelijksoortige kleuren gebruiken omdat ze dat bij films ook altijd doen om een bepaalde sfeer te creeëren.
+Voor illustraties heb ik een film-licht gebruikt die ik wil gaan gebruiken voor de dag en nacht modus, een scenebord die ik wil toepassen om de sfeer meer film achtig te maken en een poppetje van mij om te kunnen toevoegen bij het stukje van 'mijn mening'. Ik denk niet dat ik specifiek deze illustratie daarvoor wil gebruiken (het poppetje) maar dan is er wel al een beetje een beeld van welke richting ik op wil gaan.
+![Styleguide](readme-images/week3/Styleguide-digital-garden.jpg)
