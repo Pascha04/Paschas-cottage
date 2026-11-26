@@ -84,30 +84,39 @@ main {
   max-width: 80em;
   margin: auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15em, 1fr));
-  gap: 1em;
+  grid-template-columns: 1fr;
+  gap: 2em;
 }
 /**************************
 * MARK: Section ...
 **************************/
 
 article {
+  display: grid;
+  height: auto;
+  min-height: 30em;
+  margin: 0;
   background-color: oklch(0.4583 0.122 267.72);
   color: oklch(0.9725 0.0045 314.8);
-  grid-column: 7/15;
-  grid-template-rows: 3fr;
   border-radius: 2em;
-  height: 30em;
-  padding: 2em;
+  padding: 3em;
 }
 
 article:first-child {
-  max-width: 80em;
+  display: grid;
   background-color: oklch(0.5713 0.1568 293.56);
-  padding: 5em;
-  grid-column-start: 10fr;
+  padding: 3em;
   border-radius: 2em;
-  row-gap: 2em;
+  gap: 5em;
+}
+
+#favorieten {
+  display: grid;
+  padding: 3em;
+  background-color: var(--rozepaars);
+  transition: transform 0.2s;
+  margin: 0;
+  border-radius: 1em;
 }
 
 .parent {
@@ -129,7 +138,7 @@ ul {
 .div1,
 .div2,
 .div3 {
-  padding: 25px;
+  padding: 35px;
   background-color: var(--donkerblauw);
   transition: transform 0.2s;
   margin: auto;
@@ -140,13 +149,4 @@ ul {
 .div2:hover,
 .div3:hover {
   transform: scale(1.1);
-}
-
-#favorieten {
-  padding: 25px;
-  background-color: var(--rozepaars);
-  transition: transform 0.2s;
-  margin: auto;
-  border-radius: 1em;
-  align-content: center;
 }

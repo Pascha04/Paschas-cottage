@@ -307,6 +307,9 @@ Daarom ben ik gaan kijken naar een grid mogelijkheid. Omdat ik het lastig vind o
 ![Grid generator](readme-images/week3/grid-generator.png)
 ![Grid films naast elkaar](readme-images/week3/films-naast-elkaar.png)
 Toen wilde ik met hover effect de poster groot maken, maar had het eerst in de verkeerde section gedaan waardoor ze gelijk alle drie groter werden. Ook heb ik er een border omheen gedaan om het uit te lichten.
+![Hover en border](readme-images/week3/poster-met-border.png)
+Daarna zat een hele lange tijd te stoeien met dat ik een gap wilde tussen de film uitkiezen en mijn favorieten. Het lukte maar niet om uit te vogelen hoe ik het nou kon fixen. Allerlei code geprobeerd met grid en columns en teruggekeken naar de lesopdrachten. Uiteindelijk vroeg ik het aan chatgpt wat nou verkeerd was; het lag aan dat ik in de HTML de article niet had afgesloten... Ja dan voel je je wel even stom omdat je er dan de hele dag mee bezig bent en het uiteindelijk gaat om een klein foutje.
+![Row gap](readme-images/week3/Row-gap.png)
 
 Bronnen posters:
 https//:pin.it/gH1EH95lM
@@ -323,3 +326,22 @@ https//:pin.it/J4nDC70bD
   Je zorgt ervoor dat je overzicht krijgt van alle elementen waarbij je alsnog met de elementen kan spelen en het passend maken
 - Welk principe neem je mee in een laatste iteratie van je eigen Garden?
   vorm/restvorm, omdat ik een duidelijke hiërarchie wil hebben en een goed overzicht van de elementen
+
+## **Sprint reflectie**
+
+Wat heb ik allemaal geleerd:
+
+- UL LI
+- Grid indeling
+- Hoe en welke kleuren je het beste kan gebruiken
+- Gradients maken
+- Typografie indeling
+
+Waar wil ik de volgende sprint aan werken:
+
+- Goed kijken naar hierarchie
+- Indeling films en animatie laten maken
+- Gradient achtergrond proberen
+- Bij favorieten kijken naar hoe ik de tekst naast de afbeelding kan doen
+- Dag/nacht functie
+- div vervangen met ID en grid
