@@ -329,6 +329,9 @@ https//:pin.it/J4nDC70bD
 
 ## **Sprint reflectie**
 
+Hoe vind ik het tot nu toe gaan?
+Ik vind het best stroef gaan. Ik denk dat het vooral komt omdat ik coderen heel overweldigend vind en ik een begin maken heel lastig vind want; waar begin je en hoe doe je dat? Ik heb gelukkig wel kunnen kijken naar de opdrachten die ik had gemaakt, maar het bleef lastig. Daarom ben ik ook niet zo ver als dat ik had gewild en daar schaam ik mij ook een beetje voor als ik kijk naar wat anderen al hebben. Ook vind ik het daarom lastig om de motivatie te vinden om erin te gaan omdat ik het heel moeilijk vind en het gevoel heb dat ik al achterloop. Ik ben erg ambitieus dus het frustreerd mij dat het niet lukt zoals ik wilde. Ik ben erop vertrouwd en hoop dat het vanaf nu beter gaat.
+
 Wat heb ik allemaal geleerd:
 
 - UL LI
