@@ -311,7 +311,7 @@ Toen wilde ik met hover effect de poster groot maken, maar had het eerst in de v
 Daarna zat een hele lange tijd te stoeien met dat ik een gap wilde tussen de film uitkiezen en mijn favorieten. Het lukte maar niet om uit te vogelen hoe ik het nou kon fixen. Allerlei code geprobeerd met grid en columns en teruggekeken naar de lesopdrachten. Uiteindelijk vroeg ik het aan chatgpt wat nou verkeerd was; het lag aan dat ik in de HTML de article niet had afgesloten... Ja dan voel je je wel even stom omdat je er dan de hele dag mee bezig bent en het uiteindelijk gaat om een klein foutje.
 ![Row gap](readme-images/week3/Row-gap.png)
 
-Bronnen posters:
+**Bronnen posters:**
 https//:pin.it/gH1EH95lM
 https//:pin.it/37Zzj1wZ8
 https//:pin.it/J4nDC70bD
@@ -329,10 +329,10 @@ https//:pin.it/J4nDC70bD
 
 ## **Sprint reflectie**
 
-Hoe vind ik het tot nu toe gaan?
+**Hoe vind ik het tot nu toe gaan?**
 Ik vind het best stroef gaan. Ik denk dat het vooral komt omdat ik coderen heel overweldigend vind en ik een begin maken heel lastig vind want; waar begin je en hoe doe je dat? Ik heb gelukkig wel kunnen kijken naar de opdrachten die ik had gemaakt, maar het bleef lastig. Daarom ben ik ook niet zo ver als dat ik had gewild en daar schaam ik mij ook een beetje voor als ik kijk naar wat anderen al hebben. Ook vind ik het daarom lastig om de motivatie te vinden om erin te gaan omdat ik het heel moeilijk vind en het gevoel heb dat ik al achterloop. Ik ben erg ambitieus dus het frustreerd mij dat het niet lukt zoals ik wilde. Ik ben erop vertrouwd en hoop dat het vanaf nu beter gaat.
 
-Wat heb ik allemaal geleerd:
+**Wat heb ik allemaal geleerd:**
 
 - UL LI
 - Grid indeling
@@ -340,7 +340,7 @@ Wat heb ik allemaal geleerd:
 - Gradients maken
 - Typografie indeling
 
-Waar wil ik de volgende sprint aan werken:
+**Waar wil ik de volgende sprint aan werken:**
 
 - Goed kijken naar hierarchie
 - Indeling films en animatie laten maken
