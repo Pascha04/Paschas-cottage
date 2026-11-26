@@ -306,7 +306,7 @@ Ik was van plan om met de UL en LI de film posters naast elkaar te zetten, maar 
 Daarom ben ik gaan kijken naar een grid mogelijkheid. Omdat ik het lastig vind om op te starten met een website, heb ik de website gebruikt 'grid generator' omdat sanne zei dat dat een handige website is voor grids maken. Zo heb ik een grid opzetje gemaakt en heb ik getest of het was gelukt met een border. Gelukt!
 ![Grid generator](readme-images/week3/grid-generator.png)
 ![Grid films naast elkaar](readme-images/week3/films-naast-elkaar.png)
-Toen wilde ik met hover effect de poster groot maken, maar had het eerst in de verkeerde section gedaan waardoor ze gelijk alle drie groter werden. Ook heb ik er een border omheen gedaan
+Toen wilde ik met hover effect de poster groot maken, maar had het eerst in de verkeerde section gedaan waardoor ze gelijk alle drie groter werden. Ook heb ik er een border omheen gedaan om het uit te lichten.
 
 Bronnen posters:
 https//:pin.it/gH1EH95lM
