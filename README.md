@@ -303,6 +303,23 @@ Daarom ben ik begonnen met ik wel wist en al een beetje gaan spelen met de code 
 ![Begin website](readme-images/week3/1e-begin-website.png)
 Ik was van plan om met de UL en LI de film posters naast elkaar te zetten, maar dat lukte niet.
 ![UL LI code](readme-images/week3/UL-LI-proberen.png)
-Daarom ben ik gaan kijken naar een grid mogelijkheid. Omdat ik het lastig vind om op te starten met een website, heb ik de website gebruikt 'grid generator' omdat sanne zei dat dat een handige website is voor grids maken. Zo heb ik een grid opzetje gemaakt en heb ik getest of het was gelukt met een border. Gelukt! Alleen nu zijn de fonts weg?
+Daarom ben ik gaan kijken naar een grid mogelijkheid. Omdat ik het lastig vind om op te starten met een website, heb ik de website gebruikt 'grid generator' omdat sanne zei dat dat een handige website is voor grids maken. Zo heb ik een grid opzetje gemaakt en heb ik getest of het was gelukt met een border. Gelukt!
 ![Grid generator](readme-images/week3/grid-generator.png)
 ![Grid films naast elkaar](readme-images/week3/films-naast-elkaar.png)
+Toen wilde ik met hover effect de poster groot maken, maar had het eerst in de verkeerde section gedaan waardoor ze gelijk alle drie groter werden. Ook heb ik er een border omheen gedaan
+
+Bronnen posters:
+https//:pin.it/gH1EH95lM
+https//:pin.it/37Zzj1wZ8
+https//:pin.it/J4nDC70bD
+
+## **Check-out woensdag 25/11/26**
+
+- Noem 3 Gestalt- of Design principes op en laat de ander uitleggen wat ze betekenen en doen.
+  - nabijheid: dicht bij elkaar
+  - vorm/restvorm: ruimte tussen de elementen
+  - symmetrie: gelijkheid
+- Een grid biedt ruimte om te spelen (vrijheid), maar tegelijkertijd ook eenheid en structuur (vastigheid). Wat wordt hiermee bedoeld?
+  Je zorgt ervoor dat je overzicht krijgt van alle elementen waarbij je alsnog met de elementen kan spelen en het passend maken
+- Welk principe neem je mee in een laatste iteratie van je eigen Garden?
+  vorm/restvorm, omdat ik een duidelijke hiërarchie wil hebben en een goed overzicht van de elementen

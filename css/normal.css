@@ -52,7 +52,16 @@ img {
 
 body {
   font-family: "Garden-delight", system-ui;
-  background-color: oklch(0.6047 0.1504 319.74);
+  background-color: var(--lichtblauw);
+}
+
+h1 {
+  text-align: center;
+  color: var(--wit);
+}
+
+h2 {
+  text-align: center;
 }
 
 h2,
@@ -81,24 +90,24 @@ main {
 /**************************
 * MARK: Section ...
 **************************/
-article:first-child {
-  grid-column-start: 1;
-  grid-column-end: 5;
-}
 
 article {
   background-color: oklch(0.4583 0.122 267.72);
   color: oklch(0.9725 0.0045 314.8);
-  padding: 1em;
-  grid-column: 1/5;
+  grid-column: 7/15;
+  grid-template-rows: 3fr;
+  border-radius: 2em;
+  height: 30em;
+  padding: 2em;
 }
 
 article:first-child {
+  max-width: 80em;
   background-color: oklch(0.5713 0.1568 293.56);
-}
-
-article:nth-child(2) {
-  background-color: var(--donkerrozepaars);
+  padding: 5em;
+  grid-column-start: 10fr;
+  border-radius: 2em;
+  row-gap: 2em;
 }
 
 .parent {
@@ -108,9 +117,6 @@ article:nth-child(2) {
   gap: 2em 2em;
 }
 
-.parent:hover {
-  transform: scale(1.1);
-}
 ul {
   list-style: none;
   margin: 0em;
@@ -118,4 +124,29 @@ ul {
   display: grid;
   gap: 2em;
   max-width: 30em;
+}
+
+.div1,
+.div2,
+.div3 {
+  padding: 25px;
+  background-color: var(--donkerblauw);
+  transition: transform 0.2s;
+  margin: auto;
+  border-radius: 1em;
+  align-content: center;
+}
+.div1:hover,
+.div2:hover,
+.div3:hover {
+  transform: scale(1.1);
+}
+
+#favorieten {
+  padding: 25px;
+  background-color: var(--rozepaars);
+  transition: transform 0.2s;
+  margin: auto;
+  border-radius: 1em;
+  align-content: center;
 }
